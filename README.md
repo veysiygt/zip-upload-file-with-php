@@ -1,4 +1,4 @@
-# Batch Upload Zip with PHP
+# Batch Upload Zip File with PHP
 
 In the zip upload process here, you will be able to upload all the files in the zip to the folder you want in bulk.
 For you to test, there is a zip file called myfile.zip and a folder named form.
